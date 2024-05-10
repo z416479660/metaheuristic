@@ -1,3 +1,4 @@
+github 常用编辑公式： https://blog.csdn.net/lihaoweicsdn/article/details/83895143
 # 差分进化算法
 差分进化算法（Differential Evolution, DE）是一种基于群体的优化算法，它通过模拟生物进化中的交叉（或称为配对）、变异和自然选择等机制来迭代地产生新的种群。DE 算法的一般流程如下：
 
